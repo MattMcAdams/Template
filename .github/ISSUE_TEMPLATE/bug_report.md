@@ -7,6 +7,15 @@ assignees: ''
 
 ---
 
+## Prerequisites
+
+Please answer the following questions for yourself before submitting an issue.
+**YOU MAY DELETE THIS SECTION.**
+
+- [ ] I am running the latest version
+- [ ] I checked the documentation and found no answer
+- [ ] I checked to make sure that this issue has not already been filed
+
 ## Description
 A clear and concise description of what the bug is.
 
