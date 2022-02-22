@@ -1,0 +1,12 @@
+# System Junk
+
+*.log
+.cache
+.DS_Store
+.env
+.env.*
+
+# Project junk
+
+node_modules
+dist
